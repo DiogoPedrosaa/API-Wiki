@@ -1,1 +1,1 @@
-from .monsters import Monster, DropItem
+from .monsters import Monster

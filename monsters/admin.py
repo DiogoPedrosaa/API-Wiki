@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import Monster, DropItem
+from .models import Monster
 
 admin.site.register(Monster)
-admin.site.register(DropItem)
+
 
