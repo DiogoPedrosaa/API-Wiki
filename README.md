@@ -80,16 +80,7 @@ A aplicação estará disponível em `http://127.0.0.1:8000/`.
 
 A API oferece endpoints para o gerenciamento de itens e monstros. Utilize ferramentas como [Postman](https://www.postman.com/) ou [cURL](https://curl.se/) para interagir com a API.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou correções.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
-
 ---
 
-*Nota: Este projeto é uma implementação educacional e não está associado oficialmente ao jogo Elden Ring.*
 
 
